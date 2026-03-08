@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17fI5PysFrOfcwBRY_F4yIf5VrF3u_X5s?usp=sharing)
 # 🍷 Wine Quality Prediction (Machine Learning)
 
 This project predicts whether a wine is **GOOD or BAD** using Machine Learning models.
