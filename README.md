@@ -1,43 +1,80 @@
-# Wine Quality Prediction (Machine Learning Project)
+# 🍷 Wine Quality Prediction (Machine Learning)
 
-This project predicts wine quality using machine learning algorithms.
+This project predicts whether a wine is **GOOD or BAD** using Machine Learning models.
 
-## Dataset
+---
+
+## 📊 Dataset
 Wine Quality Dataset (CSV)
 
-## Technologies Used
+Features include:
+- fixed acidity
+- volatile acidity
+- citric acid
+- residual sugar
+- chlorides
+- sulphates
+- alcohol
+
+---
+
+## ⚙️ Technologies Used
+
 - Python
 - Pandas
 - NumPy
-- Scikit-learn
 - Matplotlib
 - Seaborn
+- Scikit-learn
 - Google Colab
 
-## Machine Learning Models
+---
+
+## 🤖 Machine Learning Models
+
+The following models were trained and compared:
+
 - Logistic Regression
-- KNN
+- K-Nearest Neighbors (KNN)
 - Decision Tree
 
-## Steps Performed
+---
+
+## 🔬 Steps Performed
+
 1. Data Loading
-2. Data Analysis
-3. Missing Value Check
+2. Exploratory Data Analysis
+3. Missing Values Check
 4. Correlation Heatmap
 5. Binary Target Conversion
 6. Train-Test Split
-7. Logistic Regression Model
+7. Logistic Regression Training
 8. Feature Scaling using StandardScaler
 9. Model Comparison
-10. Hyperparameter Tuning
+10. Hyperparameter Tuning using GridSearchCV
 
-## Result
-The models were evaluated using:
+---
+
+## 📈 Evaluation Metrics
+
+Models were evaluated using:
+
 - Accuracy
 - Precision
 - Recall
 - F1 Score
 - Confusion Matrix
 
-## Author
-Deeyanshu Khatri
+---
+
+## 🚀 Run the Project
+
+Open the notebook in Google Colab and run all cells.
+
+---
+
+## 👨‍💻 Author
+
+**Deeyanshu Khatri**
+
+AI & ML Student
